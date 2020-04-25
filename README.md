@@ -3,8 +3,8 @@
 ## Mentors
 
 * [Kanjal Dalal](https://github.com/LoneWolfKJ)
-* Sukriti Shah
-* Sakshi Grover
+* [Sukriti Shah](https://github.com/sukritishah15)
+* [Sakshi Grover](https://github.com/sakshigrover-1998)
 
 ## Participants
 
